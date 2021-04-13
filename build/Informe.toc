@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}OBJETIVOS}{2}{section.1}%
+\contentsline {section}{\numberline {2}REQUERIMIENTOS}{2}{section.2}%
+\contentsline {section}{\numberline {3}DESARROLLO}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Parte I: Crear BD}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Parte II: Crear consultas SQL}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Parte III: visualizador}{10}{subsection.3.3}%
+\contentsline {section}{\numberline {4}CONCLUSIONES}{14}{section.4}%
+\contentsline {section}{\numberline {5}WEBGRAFIA}{15}{section.5}%
